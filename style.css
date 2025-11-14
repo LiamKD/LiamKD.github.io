@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(141, 198, 192);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h3,
+h2{
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
